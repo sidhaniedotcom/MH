@@ -22,6 +22,7 @@ def banner():
 {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
             version : 1.0
+     https://t.me/termuxsidhanie
         """)
 
 cpass = configparser.RawConfigParser()
